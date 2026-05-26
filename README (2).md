@@ -1,4 +1,4 @@
-# 🐍 Python Basics Quiz
+# Python Basics Quiz
 
 An interactive, browser-based Python quiz for intermediate learners. No frameworks, no build tools — just vanilla HTML, CSS, and JavaScript.
 
